@@ -1,0 +1,2 @@
+# image-compression-matlab
+All an image is, is data represented on a matrix being visually displayed to you through pixels of red, green and blue on your computer. This data can be manipulated through the use of the SVD theorem to calculate a level of precision close to the original without storing as much data. The SVD allows us to store (#𝑚𝑜𝑑𝑒𝑠)(𝑚 + 𝑛) information instead of (𝑚 × 𝑛) information where the size of the image is 𝑚 × 𝑛, or 3(#𝑚𝑜𝑑𝑒𝑠)(𝑚 + 𝑛) when the image is in color instead of 3(𝑚 × 𝑛).
